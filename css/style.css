@@ -1,0 +1,12 @@
+:root{
+    --font-color:wheat;
+}
+
+body{
+    background-color: wheat;
+}
+
+.jumbotron{
+   background-image: url(../img/jumbo1.jpg); 
+   color: var(--font-color);
+}
